@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    
+}
+
+picure, img{
+    height: auto;
+    width: 100%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+    margin: 0.9em;
+    
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 100%;
+}
